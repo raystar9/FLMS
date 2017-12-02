@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">FLMS</string>
+
+    <string name="comprehensive_inquiry">종합 조회</string>
+
+    <string name="stocktaking_parts">부품 조회하기</string>
+    <string name="stocktaking_products">제품 조회하기</string>
+    <string name="check_products_order">제품 주문내역</string>
+
+    <string name="order">부품 주문하기</string>
+    <string name="check_income_statement">손익계산서 확인하기</string>
+
 </resources>
